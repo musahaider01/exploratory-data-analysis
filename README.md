@@ -95,8 +95,3 @@ ORDER BY total_layoffs DESC;
 * Years with significant spikes in layoffs
 * Companies responsible for the largest layoff totals
 * Economic patterns reflected in the data
-
----
-
-إذا تريد، أقدر أجهّز لك نسخة **منسقة تلقائيًا** كملف جاهز للتحميل، أو أضيف **شعارات + Badges + صور**.
-
